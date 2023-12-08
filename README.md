@@ -34,9 +34,9 @@
    
       pip install [Name of the library]
 
-- Execute the **“BizCardX_main.py”** using the streamlit run command.
+- Execute bizcard.py”** using the streamlit run command.
 
-      streamlit run bizcard_final.py
+      streamlit run bizcard.py
 
 - A webpage is displayed in browser, I have created the dashboard with three menu options namely **HOME, UPLOAD & EXTRACT, MODIFY** where user has the option to upload the respective Business Card whose information has to be **extracted, stored, modified or deleted** if needed.
 
